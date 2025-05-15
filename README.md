@@ -35,7 +35,7 @@ cd GPT-TEXT-GENERATOR-TOOL
 
 2. **Download the GPT-2 Medium model**
 
-Since the model file (1.3+ GB) is too large to be uploaded to GitHub, you need to download it  running the notebook file
+Since the model file (1.3+ GB) is too large to be uploaded to GitHub, 
 Model files are **not included** in the repo. Run this in the notebook to download them:
 
 > 🧾 Run the Jupyter Notebook provided:
