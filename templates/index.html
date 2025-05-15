@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GPT Text Generator</title>
+    <link rel="stylesheet" href="static/css/style.css">
+    
+</head>
+<body>
+    <div class="container">
+        <h1>TASK 4</h1>
+        <h1>GPT Text Generator</h1>
+        <form method="POST">
+            <textarea name="prompt" rows="4" cols="50" placeholder="Enter your prompt here" required style="border-radius: 15px;margin: 5px;"></textarea>
+<br>
+            <button type="submit" style="margin-top: 20px;border-radius: 15px;">Generate</button>
+        </form>
+        {% if output %}
+            <h3>Generated Text:</h3>
+            <p>{{ output }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>
