@@ -29,7 +29,7 @@ pip install -r requirements.txt
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/GPT-TEXT-GENERATOR-TOOL.git
+git clone https://github.com/sairao4102/GPT-TEXT-GENERATOR-TOOL.git
 cd GPT-TEXT-GENERATOR-TOOL
 ```
 
