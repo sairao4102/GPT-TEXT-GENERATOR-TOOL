@@ -8,4 +8,13 @@ This is a simple AI-based text generation tool built using Hugging Face's GPT-2 
 
 ```bash
 git clone https://github.com/<your-username>/GPT-TEXT-GENERATOR-TOOL.git
-cd GPT-TEXT-GENERATOR-TOOL
+cd GPT-TEXT-GENERATOR-TOOL```
+
+```python
+📦 2. Install Dependencies
+It's recommended to use a virtual environment:
+
+```bash
+
+pip install -r requirements.txt
+📓 3. Run the Jupyter Notebook (Optional)
