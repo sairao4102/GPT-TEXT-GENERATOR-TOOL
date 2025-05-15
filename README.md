@@ -13,7 +13,9 @@ Customizable model configuration
 📦 Requirements
 Install dependencies with:
 
-```pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt
+```bash
 
 🧰 How to Use
 Clone the repository:
