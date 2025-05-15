@@ -38,7 +38,7 @@ cd GPT-TEXT-GENERATOR-TOOL
 Since the model file (1.3+ GB) is too large to be uploaded to GitHub, you need to download it  running the notebook file
 Model files are **not included** in the repo. Run this in the notebook to download them:
 
-> 🧾 Use the Jupyter Notebook provided:
+> 🧾 Run the Jupyter Notebook provided:
 
 ```bash
 notebook/Untitled5.ipynb
