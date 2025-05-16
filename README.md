@@ -1,11 +1,11 @@
 
-# 🧠 GPT Text Generator Tool
+#  GPT Text Generator Tool
 
 A web-based application that generates human-like text using the **GPT-2 Medium** model. This project uses Hugging Face Transformers and Flask to provide an interactive interface for text generation.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Text generation using the `GPT-2 Medium` model
 - Web interface built with Flask
@@ -15,16 +15,7 @@ A web-based application that generates human-like text using the **GPT-2 Medium*
 
 
 
-## 📦 Requirements
-
-Install all dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-
-## 🧰 How to Use
+##  How to Use
 
 1. **Clone the repository**
 
@@ -33,7 +24,15 @@ git clone https://github.com/sairao4102/GPT-TEXT-GENERATOR-TOOL.git
 cd GPT-TEXT-GENERATOR-TOOL
 ```
 
-2. **Download the GPT-2 Medium model**
+## 2.  Requirements
+
+Install all dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## 3. **Download the GPT-2 Medium model**
 
 Since the model file (1.3+ GB) is too large to be uploaded to GitHub, 
 Model files are **not included** in the repo. Run this in the notebook to download them:
@@ -46,11 +45,15 @@ notebook/Untitled5.ipynb
 
 This will automatically download the `gpt2-medium` model and tokenizer from Hugging Face.
 
-3. **Run the application**
+## 4. **Run the application**
 
 ```bash
 python app.py
 ```
+
+Access the Application:
+Web Interface: Open [http://127.0.0.1:5000] in your browser
+
 
 This project was developed as part of my internship at ** CODTECH IT Solutions** (Task 4).
 
