@@ -92,6 +92,11 @@ python app.py
 Access the Application:
 Web Interface: Open [http://127.0.0.1:5000] in your browser
 
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/3530033b-ffdf-44e7-841c-d670a7af697e)
+
+
+
 
 This project was developed as part of my internship at ** CODTECH IT Solutions** (Task 4).
 
