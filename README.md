@@ -15,27 +15,27 @@ A web-based application that generates human-like text using the **GPT-2 Medium*
 
   
 ## Technologies Used
-**Transformers (Hugging Face)**: For using the pre-trained GPT-2 Medium model to generate text based on user input.
+- **Transformers (Hugging Face)**: For using the pre-trained GPT-2 Medium model to generate text based on user input.
 
-**Flask**: Backend framework to handle user requests and serve model-generated responses.
+- **Flask**: Backend framework to handle user requests and serve model-generated responses.
 
-**HTML/CSS**: To design a clean, responsive web interface.
+- **HTML/CSS**: To design a clean, responsive web interface.
 
-**JavaScript**: For enhancing user interactions on the frontend.
+- **JavaScript**: For enhancing user interactions on the frontend.
 
-**Jupyter Notebook**: Used for running and testing model behavior interactively.
+- **Jupyter Notebook**: Used for running and testing model behavior interactively.
 
 ## How It Works
-###User Input:
+- **User Input**:
 Users enter a prompt into the web interface.
 
-###Text Generation:
+- **Text Generation**:
 The backend loads the GPT-2 Medium model and generates a continuation of the prompt using Hugging Face's transformers library.
 
-###Display Output:
+- **Display Output**:
 The generated text is returned to the user on the webpage.
 
-###Model Setup:
+- **Model Setup**:
 The model files are not included in the GitHub repo due to size constraints. Instead, users are guided to download the model by running the provided Jupyter notebook (Untitled5.ipynb), which will fetch and cache the necessary files automatically.
 
 
