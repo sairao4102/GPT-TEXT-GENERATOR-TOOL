@@ -49,7 +49,7 @@ git clone https://github.com/sairao4102/GPT-TEXT-GENERATOR-TOOL.git
 cd GPT-TEXT-GENERATOR-TOOL
 ```
 
-## 2.  Requirements
+### 2.  Requirements
 
 Install all dependencies:
 
@@ -57,7 +57,7 @@ Install all dependencies:
 pip install -r requirements.txt
 ```
 
-## 3. **Download the GPT-2 Medium model**
+### 3. **Download the GPT-2 Medium model**
 
 Since the model file (1.3+ GB) is too large to be uploaded to GitHub, 
 Model files are **not included** in the repo. Run this in the notebook to download them:
@@ -70,7 +70,7 @@ notebook/Untitled5.ipynb
 
 This will automatically download the `gpt2-medium` model and tokenizer from Hugging Face.
 
-## 4. **Run the application**
+### 4. **Run the application**
 
 ```bash
 python app.py
