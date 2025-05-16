@@ -1,5 +1,18 @@
-
 #  GPT Text Generator Tool
+
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: KIRANSAI AREPELLI
+
+**INTERN ID**: C0DF51
+
+**DOMAIN**: Artificial Intelligence Markup Language
+
+**DURATION**: 4 WEEKS
+
+**MENTOR**: NEELA SANTOSH KUMAR
+
+## Description
 
 A web-based application that generates human-like text using the **GPT-2 Medium** model. This project uses Hugging Face Transformers and Flask to provide an interactive interface for text generation.
 
