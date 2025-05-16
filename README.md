@@ -42,7 +42,7 @@ The model files are not included in the GitHub repo due to size constraints. Ins
 
 ##  How to Use
 
-## 1. **Clone the repository**
+### 1. **Clone the repository**
 
 ```bash
 git clone https://github.com/sairao4102/GPT-TEXT-GENERATOR-TOOL.git
