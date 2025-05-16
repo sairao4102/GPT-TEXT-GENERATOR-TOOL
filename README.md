@@ -17,7 +17,7 @@ A web-based application that generates human-like text using the **GPT-2 Medium*
 
 ##  How to Use
 
-1. **Clone the repository**
+## 1. **Clone the repository**
 
 ```bash
 git clone https://github.com/sairao4102/GPT-TEXT-GENERATOR-TOOL.git
